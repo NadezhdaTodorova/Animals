@@ -1,0 +1,76 @@
+
+header.masthead{
+    text-align:center;
+    color: black;
+    background-image: url('img/header-bg.jpg');
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center center;
+    background-size: cover;
+
+       padding-top: 300px;
+       padding-bottom: 800px;
+}
+
+.heightAdder{height:1000px;}
+
+@media (min-width: 992px) {
+  #mainNav {
+    padding-top: 25px;
+    padding-bottom: 25px;
+    -webkit-transition: padding-top 0.3s, padding-bottom 0.3s;
+    -moz-transition: padding-top 0.3s, padding-bottom 0.3s;
+    transition: padding-top 0.3s, padding-bottom 0.3s;
+    border: none;
+    background-color: black;
+  }
+  #mainNav .navbar-brand {
+    font-size: 1.75em;
+    -webkit-transition: all 0.3s;
+    -moz-transition: all 0.3s;
+    transition: all 0.3s;
+  }
+  #mainNav .navbar-nav .nav-item .nav-link  {
+    padding: 1.1em 1em !important;
+  }
+  #mainNav.navbar-shrink {
+    padding-top: 0;
+    padding-bottom: 0;
+    background-color: black;
+  }
+  #mainNav.navbar-shrink .navbar-brand  {
+    font-size: 1.25em;
+    padding: 12px 0;
+  }
+    #mainNav2{
+        background-color: black;
+    }
+    
+}
+
+@media (min-width: 100px) {
+
+        #mainNav2{
+        background-color: black;
+    }
+}
+
+#section{
+ margin-top: 100px;  
+    margin-left: 20px;
+    
+}
+
+
+th, td {
+    padding: 10px;
+}
+
+
+
+tr{
+     display: inline-block;
+}
+
+
+
