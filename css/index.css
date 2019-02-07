@@ -52,15 +52,11 @@ header.masthead{
     border: none;
     }
 
-
-
-
-    
 }
 
 @media (min-width: 100px) {
 
-        #mainNav2{
+        #mainNav{
         background-color: black;
     }
 }
