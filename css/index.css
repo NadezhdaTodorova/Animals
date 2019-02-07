@@ -67,8 +67,7 @@ header.masthead{
 
 #section{
  margin-top: 10%;  
-    margin-left: 20px;
-    
+    margin-left: 20px;    
 }
 
 
@@ -85,8 +84,18 @@ tr{
        /* Set the size of the div element that contains the map */
       #map {
         height: 300px;  /* The height is 400 pixels */
-        width: 30%;  /* The width is the width of the web page */
+        width: 1500px;  /* The width is the width of the web page */
        }
+
+#mapping{
+    text-align: center;
+    margin-left:5%;
+}
+
+
+
+
+
 
 
 
