@@ -1,0 +1,8 @@
+
+Google Search Console
+
+https://search.google.com/search-console?resource_id=https%3A%2F%2Fanimals.azurewebsites.net%2F 
+
+Google analitics
+
+https://analytics.google.com/analytics/web/provision/?authuser=0#/realtime/rt-overview/a134045885w193993250p189492355/

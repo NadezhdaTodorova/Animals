@@ -88,8 +88,19 @@ tr{
     margin-left:5%;
 }
 
+.fullSize {
+    height: 400px;
+    width: 500px;
+}
 
+img {
+    -webkit-transition: all .4s ease-out;
+}
 
+footer{
+    margin-top:10%;
+    margin-left: 50%
+}
 
 
 
