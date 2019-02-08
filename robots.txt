@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Allow: /sitemap.htm
+Sitemap: https://animals.azurewebsites.net/sitemap.xml
+Imagemap: https://animals.azurewebsites.net/sitemap_images.xml
+Videomap: https://animals.azurewebsites.net/sitemap_video.xml

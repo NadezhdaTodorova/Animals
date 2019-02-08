@@ -15,7 +15,7 @@ header.masthead{
 .heightAdder{height:1000px;}
 
 @media (min-width: 992px) {
-  #mainNav {
+  #mainNav  {
     padding-top: 25px;
     padding-bottom: 25px;
     -webkit-transition: padding-top 0.3s, padding-bottom 0.3s;
@@ -42,7 +42,7 @@ header.masthead{
     font-size: 1.25em;
     padding: 12px 0;
   }
-    #mainNav2{
+/*    #mainNav2{
         background-color: black;
             padding-top: 25px;
     padding-bottom: 25px;
@@ -50,8 +50,17 @@ header.masthead{
     -moz-transition: padding-top 0.3s, padding-bottom 0.3s;
     transition: padding-top 0.3s, padding-bottom 0.3s;
     border: none;
-    }
+    }*/
 
+}
+
+mobile-menu
+
+@media (max-width:390px ){
+    img{
+        height: 100px;
+        width: 150px;
+    }
 }
 
 @media (min-width: 100px) {
@@ -62,7 +71,7 @@ header.masthead{
 }
 
 #section{
- margin-top: 10%;  
+ margin-top: 150px;  
     margin-left: 20px;    
 }
 

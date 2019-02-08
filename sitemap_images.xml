@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://animals.azurewebsites.net/wildAnimals.html</loc>
+    <lastmod>2019-02-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>https://animals.azurewebsites.net/css/img/Majestic-Tiger.jpg</image:loc>
+      <image:caption>Majestic-Tiger</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://animals.azurewebsites.net/css/img/Elephant-Ride.jpg</image:loc>
+      <image:caption>Elephant-Ride</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://animals.azurewebsites.net/css/img/Great-Indian-Rhino.jpg</image:loc>
+      <image:caption>Great-Indian-Rhino</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://animals.azurewebsites.net/css/img/Asiatic_Lioness.jpg</image:loc>
+      <image:caption>Asiatic_Lioness</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://animals.azurewebsites.net/css/img/Indian-leopard.jpg</image:loc>
+      <image:caption>Indian Leopard</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://animals.azurewebsites.net/DomesticAnimals.html</loc>
+    <lastmod>2019-02-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>https://animals.azurewebsites.net/css/img/Domestic%20goat.jpg</image:loc>
+      <image:caption>Domestic goat</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://animals.azurewebsites.net/css/img/DomesticSheep.jpg</image:loc>
+      <image:caption>DomesticSheep</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://animals.azurewebsites.net/css/img/Domestic%20pig.jpg</image:loc>
+      <image:caption>Domestic pig</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://animals.azurewebsites.net/css/img/Domestic%20horse.jpg</image:loc>
+      <image:caption>Domestic horse</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://animals.azurewebsites.net/css/img/Domestic%20dog2.jpg</image:loc>
+      <image:caption>Domestic dog</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://animals.azurewebsites.net/HowToTreatThem.html</loc>
+    <lastmod>2019-02-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>https://animals.azurewebsites.net/css/img/babyBird.jpg</image:loc>
+      <image:caption>babyBird</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://animals.azurewebsites.net/css/img/dmanimals.jpg</image:loc>
+      <image:caption>dmanimals</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://animals.azurewebsites.net/News.html</loc>
+    <lastmod>2019-02-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>https://animals.azurewebsites.net/css/img/fox.jpg</image:loc>
+      <image:caption>fox</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://animals.azurewebsites.net/css/img/extinct.jpg</image:loc>
+      <image:caption>extinct</image:caption>
+    </image:image>
+  </url>
+</urlset>
